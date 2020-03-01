@@ -1,3 +1,3 @@
-##UML диаграмма паттерна Стратегия
-![UML паттерна Стратегия](https://github.com/Dzhonson64/DesignPatterns/tree/master/imgReadme/umlStrategy.png)
+## UML диаграмма паттерна Стратегия
+![UML паттерна Стратегия](https://github.com/Dzhonson64/DesignPatterns/blob/master/imgReadme/umlStrategy.png)
 ***Паттерн Стретегия*** определяет семейство алгоритмов, инкапсулирует каждый из них и обесечивает их взаимозаменяемость. Он позоваляет модифицировать алгоритмы независимо от их использования на стороне клиента.
