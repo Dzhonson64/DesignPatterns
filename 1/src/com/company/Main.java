@@ -6,5 +6,11 @@ public class Main {
         Duck mallard = new MallardDuck();
         mallard.performFly();
         mallard.performQuack();
+
+        // Dynamic change behavior
+        Duck model = new ModelDuck();
+        model.performFly();
+        model.setFlyBehavior(new FlyRocketPowered());
+        model.performFly();
     }
 }
