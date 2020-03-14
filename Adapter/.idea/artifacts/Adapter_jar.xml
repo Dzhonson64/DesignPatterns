@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Adapter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Adapter_jar</output-path>
+    <root id="archive" name="Adapter.jar">
+      <element id="module-output" name="Adapter" />
+    </root>
+  </artifact>
+</component>
