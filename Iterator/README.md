@@ -1,6 +1,6 @@
 ### UML диаграмма паттерна Итератор
 
-![UML паттерна Комманда](https://github.com/Dzhonson64/DesignPatterns/blob/master/imgReadme/umlIterator.png)
+![UML паттерна Комманда](https://github.com/Dzhonson64/DesignPatterns/blob/master/imgReadme/umlterator.png)
 
 ***Паттерн Итератор*** предоставляет механизм последовательного преьора элементов коллекции без раскрытия её внутренего представления.
 
